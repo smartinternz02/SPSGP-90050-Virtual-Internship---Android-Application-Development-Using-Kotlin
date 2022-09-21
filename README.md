@@ -22,4 +22,5 @@ Screenshots:
 
 Prerequisites:
 -
-This App is built via Android Studio
+* This App is built via Android Studio
+* Firebase - For user Authentication through Email

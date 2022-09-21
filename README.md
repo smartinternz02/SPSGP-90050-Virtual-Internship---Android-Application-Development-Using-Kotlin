@@ -1,4 +1,4 @@
-Go-Grocery:
+Go-Grocery
 ================
 
 Android based application where the user can make a list of the groceries they intend to buy
@@ -8,7 +8,7 @@ Many times we often forget the items we were about to buy in the first place , s
 ![Intro](https://user-images.githubusercontent.com/82045730/191501559-1c7992e9-0d0f-4dc9-b54b-dd9e28930ecf.png)
 
 
--
+
 Features:
 -
 Splash Screen , Signin-Signout Interface through Firebase , Logout Button , Scrollable list , list to add/Delete items , forget password link etc.

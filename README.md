@@ -14,3 +14,6 @@ Splash Screen , Signin-Signout Interface through Firebase , Logout Button , Scro
 Screenshots:
 -----------
 ![registrationMain](https://user-images.githubusercontent.com/82045730/191492727-f7cd61e6-6cbb-4286-a23a-e2150bae6caf.PNG)
+
+
+![grocery_page](https://user-images.githubusercontent.com/82045730/191499878-bd9704ac-712d-43c7-b019-1feb9635b5cf.PNG)

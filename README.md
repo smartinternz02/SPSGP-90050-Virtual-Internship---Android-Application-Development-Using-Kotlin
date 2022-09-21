@@ -3,9 +3,11 @@ Go-Grocery:
 
 Android based application where the user can make a list of the groceries they intend to buy
 -----------------
-Many times we often forget the items we were about to buy in the first place , so here is an app to solve all that problems so you dont have to worry about forgetting anything and in addition it also stores the quantity and overall price also.
+Many times we often forget the items we were about to buy in the first place , so here is an app to solve all that problems so you dont have to worry about forgetting anything and in addition it also stores the quantity and overall price also
 
-![intro_capt](https://user-images.githubusercontent.com/82045730/191488428-be2a8dfe-3e3c-45ec-9a4e-672e662babbb.PNG)
+![Intro](https://user-images.githubusercontent.com/82045730/191501559-1c7992e9-0d0f-4dc9-b54b-dd9e28930ecf.png)
+
+
 -
 Features:
 -
@@ -13,7 +15,8 @@ Splash Screen , Signin-Signout Interface through Firebase , Logout Button , Scro
 
 Screenshots:
 -----------
-![registrationMain](https://user-images.githubusercontent.com/82045730/191492727-f7cd61e6-6cbb-4286-a23a-e2150bae6caf.PNG)
+![Registration](https://user-images.githubusercontent.com/82045730/191501596-ca6bffc9-af8f-432c-9301-d3e16290512d.png)
 
 
-![grocery_page](https://user-images.githubusercontent.com/82045730/191499878-bd9704ac-712d-43c7-b019-1feb9635b5cf.PNG)
+![GroceryList](https://user-images.githubusercontent.com/82045730/191501633-cc0d8d6b-d4bb-4f21-825d-2487c136f595.png)
+

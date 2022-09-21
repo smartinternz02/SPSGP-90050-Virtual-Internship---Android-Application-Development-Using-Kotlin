@@ -9,7 +9,7 @@ Many times we often forget the items we were about to buy in the first place , s
 -
 Features:
 -
-Splash Screen , Signin-Signout Interface , Logout Button , Scrollable list , list to add/Delete items , forget password link etc.
+Splash Screen , Signin-Signout Interface through Firebase , Logout Button , Scrollable list , list to add/Delete items , forget password link etc.
 
 Screenshots:
 -----------

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925977760055",
+    "project_id": "go-grocery-da34d",
+    "storage_bucket": "go-grocery-da34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925977760055:android:66493548ea92bcb26bcab2",
+        "android_client_info": {
+          "package_name": "harsh.my.go_grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925977760055-g5ea9052hjh9kjfjs9u4qrtqe9nm39gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyoAG2uqR0jAO3BFFkse3pzH9vmb6Ghv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925977760055-g5ea9052hjh9kjfjs9u4qrtqe9nm39gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

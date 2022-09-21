@@ -8,3 +8,4 @@ Android based application where the user can make a list of the groceries they i
 
 Screenshots:
 -----------
+![registrationMain](https://user-images.githubusercontent.com/82045730/191492727-f7cd61e6-6cbb-4286-a23a-e2150bae6caf.PNG)

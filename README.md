@@ -20,3 +20,6 @@ Screenshots:
 
 ![GroceryList](https://user-images.githubusercontent.com/82045730/191501633-cc0d8d6b-d4bb-4f21-825d-2487c136f595.png)
 
+Prerequisites:
+-
+This App is built via Android Studio
